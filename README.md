@@ -1,4 +1,4 @@
-# Welcome to BR3XALITY Labs!  
+# Welcome to BR3XALITY Labs! (BLABS for short)  
 We are a subsidiary of BR3XALITY, aiming to experiment and develop.  
 We work on:  
 Roblox scripts  
